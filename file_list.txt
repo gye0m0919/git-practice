@@ -1,0 +1,12 @@
+total 5.0K
+-rw-r--r-- 1 coupl 197609   0 Oct 19 22:03 backup_READ.md
+-rw-r--r-- 1 coupl 197609   0 Oct 19 22:14 file_list.txt
+drwxr-xr-x 1 coupl 197609   0 Oct 19 22:04 nil/
+-rw-r--r-- 1 coupl 197609 341 Sep 30 19:12 pr2.py
+-rw-r--r-- 1 coupl 197609 666 Sep 30 19:14 pre1.py
+total 6.0K
+-rw-r--r-- 1 coupl 197609   0 Oct 19 22:03 backup_READ.md
+-rw-r--r-- 1 coupl 197609 275 Oct 19 22:14 file_list.txt
+drwxr-xr-x 1 coupl 197609   0 Oct 19 22:04 nil/
+-rw-r--r-- 1 coupl 197609 341 Sep 30 19:12 pr2.py
+-rw-r--r-- 1 coupl 197609 666 Sep 30 19:14 pre1.py
